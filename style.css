@@ -88,12 +88,13 @@ button:hover {
   background-color: #218838;
 }
 
+/* Rodapé fixo na parte de baixo */
 footer {
-  background-color: #662a4d;
+  background-color: #993d73;
+  color: #e6e5e5;
+  text-align: center;
   padding: 10px;
-  font-size: 0.9rem;
-  margin-top: 30px;
-  border-radius: 30px;
+  font-size: 0.9em;
 }
 
 .historias-lista {
