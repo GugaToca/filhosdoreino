@@ -144,3 +144,8 @@ footer {
 .btn-leia:hover {
   background-color: #218838;
 }
+
+#pagina-principal {
+  background: url('imagem_fundo_body.png') no-repeat center center fixed;
+  background-size: cover;
+}
